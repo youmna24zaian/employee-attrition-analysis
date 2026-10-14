@@ -1,0 +1,1471 @@
+Attrition,Attrition_Flag,BusinessTravel,Department,EducationField,EnvironmentSatisfaction,JobInvolvement,JobLevel,JobRole,JobSatisfaction,OverTime,PerformanceRating,RelationshipSatisfaction,WorkLifeBalance,Age_Band,Salary_Band,Experience_Band,Tenure_Band
+Yes,1,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,4,Yes,3,1,1,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,2,2,Research Scientist,2,No,4,4,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Other,4,2,1,Laboratory Technician,3,Yes,3,2,3,35 to 44,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Research Scientist,3,Yes,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,1,Laboratory Technician,2,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Laboratory Technician,4,No,3,3,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,4,1,Laboratory Technician,1,Yes,4,1,2,55 and over,"Under 3,000",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,3,No,4,2,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,2,3,Manufacturing Director,3,No,4,2,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Healthcare Representative,3,No,3,2,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,1,Laboratory Technician,2,No,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Laboratory Technician,3,Yes,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,3,No,3,4,2,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,4,No,3,3,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Laboratory Technician,3,Yes,3,2,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,3,Manufacturing Director,1,No,3,3,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,4,1,Research Scientist,2,Yes,3,4,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,4,4,1,Laboratory Technician,4,Yes,3,2,2,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,2,4,Manager,4,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,4,Yes,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Other,1,4,2,Manufacturing Director,3,No,3,4,2,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,3,2,1,Sales Representative,1,No,4,2,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,3,Research Director,2,No,3,3,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,No,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,2,3,1,Research Scientist,1,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,5,Manager,3,No,3,4,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,2,1,1,Research Scientist,1,Yes,4,2,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,2,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,3,Healthcare Representative,4,No,3,4,3,35 to 44,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,5,Manager,1,No,3,4,2,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,4,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,2,Healthcare Representative,4,Yes,3,4,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Laboratory Technician,3,No,3,1,3,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Technical Degree,4,3,2,Sales Representative,4,No,3,3,4,35 to 44,"Under 3,000",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,2,3,1,Research Scientist,4,Yes,3,1,2,18 to 24,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,4,1,Research Scientist,3,No,3,4,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,2,1,Sales Representative,3,Yes,3,3,3,45 to 54,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,1,Sales Representative,4,No,3,1,3,35 to 44,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,1,Research Scientist,1,Yes,3,4,4,35 to 44,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,3,4,2,Sales Executive,1,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,1,Laboratory Technician,4,No,3,3,3,35 to 44,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,1,No,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,1,1,Laboratory Technician,3,No,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,4,3,3,Sales Executive,3,No,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,3,2,Laboratory Technician,4,No,4,4,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,2,3,5,Research Director,3,No,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Sales,Marketing,2,3,2,Sales Executive,3,No,4,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,2,No,4,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Marketing,1,3,2,Sales Executive,4,Yes,4,3,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,1,Laboratory Technician,4,No,3,4,3,35 to 44,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,2,3,Laboratory Technician,3,Yes,3,4,3,45 to 54,"5,000 to 7,999",21+ yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,3,3,1,Laboratory Technician,3,Yes,3,3,2,25 to 34,"3,000 to 4,999",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,1,Yes,4,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Medical,3,2,3,Healthcare Representative,1,Yes,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,4,Yes,3,3,2,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,3,Research Director,4,Yes,3,3,3,25 to 34,"12,000 and over",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Life Sciences,2,3,3,Sales Executive,1,No,4,4,2,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,1,Yes,3,3,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Laboratory Technician,4,No,4,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,2,Manufacturing Director,3,No,3,3,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,2,Manufacturing Director,4,Yes,4,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Laboratory Technician,4,No,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,5,Research Director,3,Yes,3,4,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,3,Sales Executive,1,No,3,4,2,55 and over,"5,000 to 7,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,3,Healthcare Representative,3,No,3,2,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,4,Manager,3,Yes,3,3,3,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,2,2,2,Manufacturing Director,2,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,3,Research Scientist,1,No,3,3,3,45 to 54,"8,000 to 11,999",21+ yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,1,Research Scientist,1,No,3,4,2,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,2,1,Research Scientist,3,Yes,3,1,2,35 to 44,"3,000 to 4,999",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,1,2,2,Sales Executive,3,No,3,4,2,55 and over,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,2,No,4,4,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,2,No,3,2,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Research Scientist,2,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,1,Laboratory Technician,4,No,3,2,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Manufacturing Director,4,No,4,4,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,1,No,3,2,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,3,Research Director,1,Yes,3,2,4,45 to 54,"12,000 and over",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,3,Research Director,3,No,3,1,4,35 to 44,"12,000 and over",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Medical,2,3,2,Human Resources,2,Yes,4,4,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Laboratory Technician,4,Yes,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,1,Research Scientist,3,No,3,1,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,3,Sales Executive,4,No,3,4,3,55 and over,"8,000 to 11,999",21+ yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Medical,2,1,2,Research Scientist,4,Yes,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,2,Manufacturing Director,2,No,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,1,3,Manufacturing Director,4,No,3,1,2,55 and over,"5,000 to 7,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,3,3,1,Sales Representative,1,No,3,3,3,18 to 24,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,4,No,4,2,3,45 to 54,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,2,Healthcare Representative,4,No,3,1,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Medical,3,2,3,Sales Executive,4,No,3,4,3,45 to 54,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,2,4,Healthcare Representative,2,No,4,4,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,4,Yes,4,4,1,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,3,2,2,Sales Executive,2,Yes,3,2,2,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,2,3,Healthcare Representative,1,Yes,3,3,2,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,2,3,2,Sales Executive,3,No,3,1,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,3,Research Director,3,No,3,1,1,45 to 54,"12,000 and over",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Other,1,3,2,Sales Executive,3,No,4,1,2,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Medical,2,3,2,Sales Executive,3,No,3,2,4,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,4,Sales Executive,3,No,3,3,2,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,2,3,2,Laboratory Technician,2,No,3,3,4,35 to 44,"Under 3,000",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Human Resources,Human Resources,3,3,1,Human Resources,1,Yes,4,4,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,1,No,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,4,2,1,Laboratory Technician,4,Yes,3,2,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Other,1,3,2,Research Scientist,3,No,3,3,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,2,Healthcare Representative,4,No,3,4,4,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Non-Travel,Human Resources,Human Resources,3,2,5,Manager,4,No,4,4,3,55 and over,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,5,Research Director,2,Yes,3,1,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,3,Yes,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Research Scientist,4,No,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,4,No,3,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,2,3,Healthcare Representative,1,No,4,3,2,45 to 54,"5,000 to 7,999",21+ yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,1,2,Laboratory Technician,3,Yes,4,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Human Resources,Human Resources,4,4,4,Manager,4,Yes,3,3,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,3,No,3,3,3,18 to 24,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,2,Research Scientist,2,No,3,3,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,3,Sales Executive,4,No,3,1,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,3,Manager,1,No,3,4,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Technical Degree,2,3,3,Sales Executive,4,No,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,4,No,4,1,3,35 to 44,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,3,3,4,Manager,4,Yes,3,4,4,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,1,1,Research Scientist,3,No,4,3,2,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Sales,Marketing,3,3,2,Sales Executive,2,No,3,1,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,2,Yes,3,1,3,55 and over,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,5,Research Director,3,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,2,1,2,Sales Executive,3,Yes,3,2,2,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,2,1,Research Scientist,2,No,3,3,2,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,3,3,Healthcare Representative,4,No,3,4,2,55 and over,"8,000 to 11,999",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Marketing,4,3,1,Sales Representative,3,Yes,3,4,2,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,1,Laboratory Technician,4,No,3,3,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Manufacturing Director,1,No,3,3,2,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,4,1,Research Scientist,3,No,3,4,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Marketing,3,3,3,Sales Executive,4,No,3,4,3,Unknown,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,2,1,2,Sales Executive,3,Yes,3,3,3,Unknown,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,3,Sales Executive,3,Yes,3,3,3,Unknown,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,3,3,1,Human Resources,3,No,4,4,3,Unknown,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Manufacturing Director,2,No,4,4,3,Unknown,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,1,3,Manufacturing Director,4,No,3,4,3,Unknown,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,2,2,Sales Executive,3,No,3,3,4,Unknown,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,2,2,Sales Executive,3,No,3,4,3,Unknown,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,3,2,Human Resources,4,Yes,3,4,1,Unknown,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,3,1,Laboratory Technician,1,No,4,1,4,Unknown,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,4,No,3,2,2,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,2,Research Scientist,3,Yes,4,2,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,3,No,3,3,2,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Medical,4,1,2,Sales Executive,4,No,3,4,4,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Research Scientist,1,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,1,Laboratory Technician,4,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,2,4,Manager,1,No,3,2,2,35 to 44,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,1,No,4,4,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,2,No,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,2,Research Scientist,2,No,3,1,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,3,Sales Executive,2,No,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Representative,3,Yes,4,4,1,45 to 54,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Laboratory Technician,2,No,3,3,1,45 to 54,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Marketing,2,3,3,Sales Executive,4,No,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,4,3,2,Manufacturing Director,3,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,2,Manufacturing Director,3,No,3,3,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,1,Research Scientist,2,Yes,4,2,2,55 and over,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,3,Sales Executive,4,No,3,1,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Marketing,3,3,1,Sales Representative,3,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,4,No,4,1,3,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Medical,4,3,1,Research Scientist,2,No,3,4,1,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,4,No,3,3,1,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,3,Healthcare Representative,4,Yes,3,2,1,55 and over,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,2,1,Research Scientist,3,Yes,3,4,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,5,Manager,2,No,3,2,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,3,No,3,1,3,35 to 44,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,3,Sales Executive,4,No,3,3,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,2,2,Sales Executive,4,No,4,3,4,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,3,No,4,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,1,Research Scientist,2,Yes,3,4,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Technical Degree,3,1,1,Sales Representative,1,No,4,1,4,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,1,Laboratory Technician,2,No,3,3,2,Unknown,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,2,Laboratory Technician,1,No,3,3,3,Unknown,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,1,Yes,3,1,4,Unknown,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,1,Yes,3,3,3,Unknown,"3,000 to 4,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,No,3,1,4,Unknown,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,2,2,1,Laboratory Technician,4,No,4,3,2,Unknown,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,3,Sales Executive,1,No,4,3,3,Unknown,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,4,No,3,3,3,35 to 44,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,4,Yes,4,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,2,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,2,3,1,Sales Representative,2,Yes,4,4,2,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,1,Laboratory Technician,3,No,3,4,2,45 to 54,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,4,2,Manufacturing Director,1,No,3,3,3,45 to 54,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,2,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,5,Manager,3,No,3,2,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,4,5,Research Director,2,No,3,4,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,2,2,Manufacturing Director,3,No,3,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,4,Healthcare Representative,2,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,5,Manager,3,No,3,1,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,2,No,3,4,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,2,2,2,Manufacturing Director,3,Yes,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Medical,4,4,1,Research Scientist,4,No,3,4,4,Unknown,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,1,2,4,Manager,4,No,4,4,3,Unknown,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,1,Research Scientist,1,Yes,3,1,2,Unknown,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,2,Laboratory Technician,2,No,3,4,3,Unknown,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,2,Manufacturing Director,3,No,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Manufacturing Director,3,No,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,2,Manufacturing Director,4,No,3,1,1,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,3,2,2,Manufacturing Director,1,No,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,2,Manufacturing Director,4,Yes,3,1,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,1,Research Scientist,3,Yes,3,4,4,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Laboratory Technician,4,Yes,3,3,4,35 to 44,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,2,3,2,Healthcare Representative,1,Yes,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,2,3,3,Sales Executive,4,No,4,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,1,Research Scientist,2,Yes,3,1,2,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,1,Laboratory Technician,4,No,3,1,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,2,2,Healthcare Representative,4,No,3,4,1,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,3,Healthcare Representative,1,No,3,3,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Medical,4,1,3,Sales Executive,4,No,3,3,2,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,3,Manufacturing Director,3,No,4,3,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Life Sciences,4,3,2,Sales Executive,3,No,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,3,Research Director,2,No,3,4,1,45 to 54,"12,000 and over",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Research Scientist,1,Yes,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,3,Manager,4,Yes,3,3,3,35 to 44,"12,000 and over",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,3,2,2,Sales Executive,1,No,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,3,3,1,Research Scientist,3,No,3,4,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Medical,4,2,3,Sales Executive,4,No,3,4,3,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,1,No,3,4,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Laboratory Technician,2,No,3,4,4,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,1,Research Scientist,2,No,4,4,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Other,2,3,3,Research Director,4,Yes,3,3,3,35 to 44,"12,000 and over",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,3,Sales Executive,3,No,3,3,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,3,1,2,Manufacturing Director,3,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Research Scientist,4,No,3,1,3,55 and over,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Marketing,1,3,1,Sales Representative,4,No,3,3,3,35 to 44,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Medical,2,3,3,Sales Executive,4,No,3,4,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Marketing,3,3,3,Sales Executive,3,No,3,1,4,35 to 44,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,2,1,Research Scientist,4,Yes,3,3,2,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Laboratory Technician,4,No,3,2,2,45 to 54,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,5,Manager,4,No,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Medical,2,3,1,Human Resources,3,No,3,4,2,55 and over,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,5,Manager,4,No,3,3,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,4,Yes,3,3,1,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,4,Manager,4,Yes,4,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,1,No,4,1,4,25 to 34,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Life Sciences,1,2,5,Manager,3,Yes,3,4,4,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,1,Sales Representative,2,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,2,1,Laboratory Technician,3,Yes,3,4,1,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,3,No,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Marketing,3,3,2,Sales Executive,4,No,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Research Scientist,1,No,3,1,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,2,Research Scientist,4,No,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,4,5,Manager,4,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,3,Research Director,3,No,3,1,3,25 to 34,"12,000 and over",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Research Scientist,4,No,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Manufacturing Director,1,No,3,2,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,1,Research Scientist,1,No,3,1,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,4,2,Manufacturing Director,3,No,3,4,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,1,3,3,Manufacturing Director,3,No,3,2,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,3,3,3,Healthcare Representative,3,No,4,4,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,No,3,1,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,2,Research Scientist,1,Yes,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,4,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Manufacturing Director,3,No,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Laboratory Technician,1,Yes,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,5,Research Director,3,No,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,No,3,2,2,45 to 54,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,3,2,1,Laboratory Technician,2,No,3,2,4,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,2,4,1,Laboratory Technician,2,No,4,3,1,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Life Sciences,4,2,2,Sales Executive,4,No,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,2,Laboratory Technician,1,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,3,1,4,Manager,2,Yes,3,2,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,3,No,3,3,1,25 to 34,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,1,2,2,Sales Executive,2,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,2,Healthcare Representative,4,No,4,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,2,4,2,Healthcare Representative,1,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,4,Healthcare Representative,4,Yes,3,2,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,4,No,3,3,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,5,Manager,1,Yes,3,3,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Non-Travel,Research & Development,Life Sciences,1,3,3,Manager,2,Yes,3,4,2,45 to 54,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,4,No,4,4,2,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,4,No,3,2,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Research Scientist,3,No,3,1,4,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Medical,1,3,3,Research Director,4,Yes,3,1,3,35 to 44,"12,000 and over",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,3,Manager,2,No,3,2,2,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,1,4,2,Sales Executive,1,Yes,4,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,2,Manufacturing Director,2,No,4,1,1,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,5,Research Director,2,No,3,1,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,4,Research Director,3,Yes,3,4,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,3,No,4,3,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Life Sciences,2,3,2,Sales Executive,4,No,3,1,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,2,3,2,Laboratory Technician,4,Yes,3,4,3,55 and over,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,3,2,Healthcare Representative,1,Yes,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,4,No,3,2,3,35 to 44,"Under 3,000",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Laboratory Technician,3,Yes,4,4,1,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Healthcare Representative,4,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,3,1,Laboratory Technician,2,Yes,3,4,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,4,No,4,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,5,Research Director,1,Yes,3,4,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,2,Research Scientist,2,No,3,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Marketing,4,3,1,Sales Representative,2,No,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,4,Yes,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,1,Research Scientist,4,Yes,3,3,2,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Marketing,3,3,4,Sales Executive,2,No,3,4,4,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,3,No,3,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,3,Sales Executive,2,No,3,3,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,4,1,Laboratory Technician,4,No,3,4,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,1,2,Manufacturing Director,2,No,3,4,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,4,Manager,2,No,3,2,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,4,2,1,Sales Representative,3,No,3,1,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,2,Healthcare Representative,1,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,4,2,Sales Executive,4,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,4,3,Healthcare Representative,4,No,3,1,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,2,3,2,Laboratory Technician,2,No,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,2,2,Sales Executive,3,No,3,3,2,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,3,Research Director,2,No,3,3,3,35 to 44,"12,000 and over",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,1,2,Healthcare Representative,3,Yes,3,4,3,55 and over,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,1,Research Scientist,4,Yes,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,1,2,2,Human Resources,1,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,3,Laboratory Technician,1,No,3,1,3,45 to 54,"5,000 to 7,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,Yes,3,2,1,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,3,Manager,2,No,3,2,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,4,Manager,1,Yes,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,1,Laboratory Technician,4,No,3,1,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,2,4,Healthcare Representative,3,Yes,3,4,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,2,2,Research Scientist,2,No,3,1,2,45 to 54,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,2,Yes,3,2,2,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,3,2,2,Sales Executive,2,Yes,3,4,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,2,Sales Executive,3,Yes,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,4,No,3,4,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,2,Research Scientist,4,No,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,1,1,Research Scientist,4,Yes,3,4,2,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Research Scientist,4,No,3,4,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,2,3,Manufacturing Director,3,No,4,1,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,2,5,Manager,4,No,3,1,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Medical,4,3,2,Sales Executive,3,Yes,3,1,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Marketing,2,2,2,Sales Executive,4,No,3,3,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,5,Research Director,3,No,3,2,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,2,2,Laboratory Technician,3,No,3,2,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Marketing,3,3,2,Sales Executive,2,Yes,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Research Scientist,3,No,3,4,2,45 to 54,"3,000 to 4,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,3,Healthcare Representative,1,No,3,1,2,35 to 44,"8,000 to 11,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,2,Research Scientist,4,No,3,1,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,2,1,2,Sales Executive,4,Yes,4,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Other,2,1,1,Laboratory Technician,1,Yes,3,4,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,2,2,1,Laboratory Technician,4,No,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,3,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,2,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Manufacturing Director,4,No,3,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,3,Research Director,4,Yes,3,2,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,3,Manufacturing Director,4,Yes,3,3,2,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,2,Yes,3,1,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,3,Manufacturing Director,2,No,3,4,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,No,3,3,2,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,2,Manufacturing Director,2,Yes,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Medical,2,3,2,Sales Representative,3,No,3,1,3,45 to 54,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,4,Research Director,4,No,3,2,3,35 to 44,"12,000 and over",11 to 20 yrs,0 to 1 yrs
+No,0,Non-Travel,Sales,Life Sciences,4,3,2,Sales Executive,3,No,3,1,2,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Technical Degree,3,3,1,Human Resources,3,Yes,3,3,3,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,2,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,1,3,3,Manager,3,No,4,2,1,45 to 54,"12,000 and over",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,4,2,Research Scientist,1,Yes,3,1,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Technical Degree,4,3,2,Sales Executive,3,Yes,3,2,4,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,3,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,1,2,2,Healthcare Representative,4,No,4,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Technical Degree,1,2,1,Sales Representative,2,Yes,3,3,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Medical,4,3,2,Sales Executive,4,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Medical,1,2,3,Sales Executive,4,No,3,1,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Healthcare Representative,3,No,3,3,3,55 and over,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,1,Laboratory Technician,3,Yes,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Medical,1,3,1,Sales Representative,4,No,4,3,2,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,4,3,1,Sales Representative,3,Yes,3,2,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,1,No,4,2,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,2,Manufacturing Director,3,No,3,3,4,45 to 54,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,1,3,2,Sales Executive,2,No,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,3,Healthcare Representative,4,No,3,4,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,3,Yes,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Research Scientist,2,Yes,3,4,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,3,4,1,Sales Representative,2,No,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,4,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,2,Healthcare Representative,2,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,2,No,3,2,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,4,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,2,2,3,Healthcare Representative,3,No,4,3,3,45 to 54,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,4,No,3,3,2,45 to 54,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,3,No,3,2,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Non-Travel,Sales,Marketing,1,4,2,Sales Executive,4,Yes,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,4,Manager,4,Yes,3,3,3,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,3,Yes,3,4,4,18 to 24,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,3,3,1,Sales Representative,2,No,3,1,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Technical Degree,3,3,1,Research Scientist,1,No,4,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,1,Research Scientist,2,No,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,2,2,3,Sales Executive,3,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Technical Degree,3,3,1,Research Scientist,4,Yes,4,3,3,25 to 34,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,1,No,3,3,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,2,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,1,No,3,2,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Manufacturing Director,2,Yes,3,4,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,4,Research Director,2,No,3,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,2,Laboratory Technician,3,No,4,2,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,5,Research Director,1,No,3,3,2,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Marketing,3,3,2,Sales Executive,3,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Manufacturing Director,1,No,3,2,1,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,1,Laboratory Technician,4,No,4,1,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,2,Healthcare Representative,3,Yes,3,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,2,2,Sales Executive,4,Yes,3,2,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,2,3,2,Research Scientist,3,Yes,3,1,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,1,Laboratory Technician,1,No,3,3,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,2,3,5,Manager,3,Yes,3,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Life Sciences,3,4,4,Sales Executive,1,No,3,4,2,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,3,2,Sales Executive,3,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,4,3,Sales Executive,1,No,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Laboratory Technician,1,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,3,1,Laboratory Technician,1,No,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,3,Manufacturing Director,3,Yes,3,3,3,45 to 54,"5,000 to 7,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,4,No,4,4,2,45 to 54,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Manager,4,No,3,4,1,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,2,Research Scientist,3,No,3,2,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,1,2,Manufacturing Director,4,No,4,3,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,5,Manager,1,No,3,4,1,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Manufacturing Director,3,No,3,3,2,45 to 54,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,4,2,2,Healthcare Representative,4,No,3,4,4,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Technical Degree,1,3,1,Sales Representative,2,Yes,3,2,3,18 to 24,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,4,1,1,Sales Representative,3,No,3,4,2,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Laboratory Technician,4,Yes,4,3,3,35 to 44,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,5,Manager,3,No,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,4,No,4,2,1,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,1,Laboratory Technician,4,No,3,3,1,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,3,Research Director,3,No,3,3,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,3,2,1,Research Scientist,2,No,3,2,4,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Human Resources,Technical Degree,1,2,1,Human Resources,4,No,3,3,4,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Non-Travel,Sales,Other,3,3,3,Sales Executive,1,No,3,3,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,2,4,Manager,4,No,3,3,2,55 and over,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,4,Manager,3,No,3,2,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,1,Laboratory Technician,4,No,3,3,2,25 to 34,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Marketing,3,2,3,Sales Executive,1,No,3,4,4,55 and over,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,2,Manufacturing Director,4,No,3,3,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,4,Research Director,3,No,3,3,1,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,1,1,Laboratory Technician,3,No,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Laboratory Technician,3,No,3,3,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,1,Research Scientist,3,No,3,3,3,25 to 34,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,3,Sales Executive,4,Yes,3,3,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,3,Manufacturing Director,2,No,4,4,4,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,2,3,3,Manager,3,Yes,3,4,4,25 to 34,"12,000 and over",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,1,1,Laboratory Technician,4,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,1,Sales Representative,2,No,3,1,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,3,Healthcare Representative,3,Yes,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,3,3,Healthcare Representative,3,No,3,1,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Human Resources,Human Resources,2,3,3,Human Resources,1,Yes,3,3,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Other,2,3,1,Laboratory Technician,3,No,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Medical,2,3,3,Sales Executive,4,No,3,4,2,35 to 44,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Technical Degree,3,2,1,Laboratory Technician,3,No,3,3,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,4,No,3,1,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,4,Manager,2,No,4,4,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Sales,Life Sciences,4,3,2,Sales Executive,4,No,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,3,No,3,3,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,4,Manufacturing Director,3,No,3,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,1,Laboratory Technician,3,No,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,4,Yes,3,3,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,3,Manufacturing Director,1,Yes,4,4,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Other,4,3,2,Sales Executive,2,No,3,2,4,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Human Resources,Life Sciences,2,3,1,Human Resources,3,Yes,3,2,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,2,Manufacturing Director,4,No,3,2,4,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,4,Research Director,3,No,3,3,3,25 to 34,"12,000 and over",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,2,3,Manager,4,No,4,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,2,3,1,Sales Representative,2,Yes,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Non-Travel,Sales,Other,3,1,3,Sales Executive,1,No,3,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Other,1,2,2,Healthcare Representative,3,Yes,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,1,3,2,Sales Executive,3,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,1,3,2,Sales Executive,3,No,3,4,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,4,2,Sales Executive,4,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,3,1,1,Laboratory Technician,4,Yes,3,2,1,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,2,3,3,Manufacturing Director,4,No,3,4,4,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,3,3,Healthcare Representative,3,No,3,4,2,45 to 54,"8,000 to 11,999",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,4,Manager,1,No,3,2,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Sales,Medical,1,3,3,Sales Executive,2,No,3,4,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,2,Research Scientist,1,Yes,3,2,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+Yes,1,Non-Travel,Sales,Other,4,4,2,Sales Executive,3,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Medical,4,3,1,Sales Representative,4,No,3,3,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Healthcare Representative,3,No,3,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Manufacturing Director,2,No,3,2,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,5,Research Director,3,Yes,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,1,Research Scientist,4,Yes,3,2,3,18 to 24,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,3,2,Sales Executive,2,No,4,4,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,2,1,Laboratory Technician,2,No,4,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Human Resources,Medical,1,3,5,Manager,2,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,2,3,1,Sales Representative,3,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,3,1,Laboratory Technician,3,Yes,3,4,3,18 to 24,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,2,2,1,Sales Representative,1,No,3,3,4,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,1,Research Scientist,4,Yes,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Medical,2,3,2,Sales Executive,1,No,3,3,1,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,1,2,2,Laboratory Technician,4,No,3,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,1,4,2,Sales Executive,4,No,4,4,4,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,1,Research Scientist,3,No,3,3,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,3,Yes,3,3,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,1,Research Scientist,2,No,3,4,4,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Healthcare Representative,4,No,3,2,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,2,2,4,Research Director,4,Yes,3,3,2,35 to 44,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,1,No,3,4,2,35 to 44,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,2,Laboratory Technician,3,Yes,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,4,Manager,1,No,3,1,1,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,1,2,2,Human Resources,3,No,3,2,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,3,3,1,Sales Representative,3,Yes,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,3,3,1,Sales Representative,1,No,3,2,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,3,3,1,Sales Representative,3,No,3,3,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,5,Manager,4,Yes,3,1,4,35 to 44,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,1,Research Scientist,3,No,4,4,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,3,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Research Scientist,4,Yes,3,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,3,1,Research Scientist,3,No,4,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,2,Sales Executive,1,No,4,4,4,45 to 54,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,4,No,3,4,2,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,1,3,2,Sales Executive,1,No,3,4,3,45 to 54,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,4,Yes,3,3,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,3,Manufacturing Director,3,No,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,2,3,2,Sales Executive,3,No,3,1,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,1,2,Research Scientist,4,No,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,2,Healthcare Representative,4,No,4,3,1,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Medical,3,3,3,Human Resources,2,No,3,3,4,45 to 54,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,2,Manufacturing Director,2,Yes,3,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,1,Research Scientist,4,No,3,4,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,3,Yes,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,3,1,Research Scientist,1,Yes,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,1,Laboratory Technician,3,No,3,3,3,35 to 44,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,1,Research Scientist,1,No,3,1,4,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,4,2,Sales Executive,2,No,4,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,4,No,4,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,2,1,1,Research Scientist,4,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,4,2,Sales Executive,2,No,3,4,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Medical,4,4,2,Sales Executive,4,Yes,4,2,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,1,Research Scientist,4,No,3,1,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,4,1,Laboratory Technician,3,Yes,3,3,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,3,Healthcare Representative,2,No,3,2,4,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,1,3,2,Sales Executive,3,No,3,1,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,2,Healthcare Representative,3,No,3,1,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,4,No,3,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Frequently,Sales,Technical Degree,2,3,2,Sales Executive,3,Yes,3,1,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,2,Healthcare Representative,4,No,3,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,3,Manufacturing Director,1,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,3,Research Director,4,No,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,1,No,3,4,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,4,2,3,Sales Executive,1,Yes,4,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,4,Research Director,3,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,2,2,5,Manager,4,No,3,2,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,1,3,2,Sales Executive,1,No,3,4,3,55 and over,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,3,Manufacturing Director,1,No,4,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,4,2,5,Manager,3,No,3,2,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,1,Sales Representative,2,No,3,4,3,45 to 54,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,1,1,Research Scientist,2,Yes,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,1,4,3,Research Director,1,No,3,1,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,3,Manufacturing Director,3,Yes,3,4,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Medical,1,1,1,Laboratory Technician,3,No,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Medical,4,3,4,Sales Executive,3,Yes,3,4,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,4,No,4,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,1,Sales Representative,3,No,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,3,4,1,Research Scientist,3,Yes,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,4,2,2,Sales Executive,4,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Healthcare Representative,3,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,1,No,3,4,4,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,4,2,Human Resources,2,No,3,3,1,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,4,Healthcare Representative,4,No,3,3,2,55 and over,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Research Scientist,4,Yes,4,4,2,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,2,Healthcare Representative,1,No,3,1,1,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,1,Sales Representative,2,No,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Laboratory Technician,4,No,3,4,3,45 to 54,"Under 3,000",11 to 20 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,2,Healthcare Representative,1,No,3,1,4,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,2,Laboratory Technician,4,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,3,Yes,3,2,1,35 to 44,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Manufacturing Director,1,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,4,Manager,1,No,3,1,4,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Other,4,3,1,Research Scientist,4,Yes,3,3,2,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,4,No,4,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,1,2,Sales Representative,3,No,3,1,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,1,Research Scientist,3,No,3,4,3,18 to 24,"3,000 to 4,999",0 to 2 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,2,4,2,Sales Executive,3,Yes,3,4,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Other,4,3,2,Sales Executive,4,No,4,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,3,5,Manager,1,Yes,3,4,3,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Life Sciences,1,2,3,Sales Executive,1,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,4,3,1,Research Scientist,4,No,3,1,3,45 to 54,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,1,1,Laboratory Technician,4,No,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Healthcare Representative,3,No,3,1,2,25 to 34,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Technical Degree,4,2,2,Sales Executive,1,No,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,1,Research Scientist,4,No,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Manufacturing Director,1,Yes,3,2,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Marketing,3,3,2,Sales Executive,4,No,3,2,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,1,Yes,3,2,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,4,2,Manufacturing Director,1,Yes,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,1,Research Scientist,1,No,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,1,Sales Representative,4,No,3,2,2,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,1,1,Laboratory Technician,3,No,4,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,4,2,Healthcare Representative,2,No,4,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,1,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,2,3,5,Manager,4,No,3,2,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,3,4,1,Laboratory Technician,1,Yes,4,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,1,Laboratory Technician,2,No,3,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Laboratory Technician,3,No,4,2,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,4,Research Director,3,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,2,2,1,Laboratory Technician,1,Yes,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,3,Research Director,3,No,3,4,4,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,3,2,Sales Executive,1,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,4,Manager,4,Yes,3,3,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,2,Manufacturing Director,2,No,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,1,Research Scientist,3,No,4,3,3,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,3,5,Research Director,2,Yes,3,4,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,1,Research Scientist,3,No,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Manufacturing Director,4,Yes,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,3,No,3,4,2,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,3,1,Human Resources,2,No,3,2,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,2,Manufacturing Director,3,No,3,3,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,2,2,Laboratory Technician,3,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,2,Manufacturing Director,4,Yes,4,2,2,25 to 34,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,1,Research Scientist,3,No,3,4,3,45 to 54,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Manufacturing Director,2,No,3,4,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,2,2,Healthcare Representative,1,No,3,3,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,2,1,Research Scientist,4,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,3,3,3,Sales Executive,4,No,3,1,4,45 to 54,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,4,No,3,3,2,55 and over,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,4,Research Director,1,No,4,3,3,35 to 44,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,2,3,Research Director,4,Yes,3,2,3,25 to 34,"12,000 and over",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,3,Manufacturing Director,3,No,4,2,4,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,2,Yes,4,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,3,1,Human Resources,4,No,3,3,1,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,3,2,1,Research Scientist,3,Yes,3,1,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,4,3,1,Research Scientist,4,No,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,3,4,Manager,3,No,3,3,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Healthcare Representative,2,No,3,4,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,1,Research Scientist,1,No,3,3,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,1,4,2,Sales Executive,1,No,4,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,1,Research Scientist,1,No,3,4,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,4,Yes,3,4,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,4,No,3,3,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,2,2,1,Research Scientist,4,No,3,2,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,2,3,Sales Executive,4,Yes,3,4,3,45 to 54,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,3,Sales Executive,1,Yes,3,3,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,4,2,Research Scientist,3,No,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,2,4,Manufacturing Director,4,No,4,3,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,3,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Human Resources,Medical,2,2,1,Human Resources,4,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Manufacturing Director,4,No,4,1,1,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,4,1,Laboratory Technician,4,Yes,4,3,2,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,1,Research Scientist,4,Yes,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,1,2,1,Human Resources,1,No,4,3,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Other,3,3,2,Sales Executive,1,Yes,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,3,Manufacturing Director,3,Yes,4,2,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Research Scientist,2,Yes,3,1,2,35 to 44,"Under 3,000",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,1,Laboratory Technician,4,No,3,2,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,1,No,3,1,4,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,1,Research Scientist,1,No,3,2,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,1,2,1,Laboratory Technician,4,No,3,4,2,18 to 24,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,2,3,2,Sales Executive,2,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,2,1,Sales Representative,2,No,3,4,3,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,2,Laboratory Technician,4,Yes,3,2,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,4,Yes,3,2,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Medical,2,2,1,Sales Representative,3,Yes,3,3,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,3,4,Sales Executive,4,No,3,3,3,45 to 54,"8,000 to 11,999",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,3,Manufacturing Director,2,No,3,1,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Medical,3,3,1,Sales Representative,4,No,3,2,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Research Director,4,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Healthcare Representative,4,No,3,2,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,4,Yes,4,1,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Medical,1,3,3,Sales Executive,2,Yes,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,1,3,4,Manager,1,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,4,2,2,Human Resources,4,No,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,4,3,1,Human Resources,2,Yes,3,3,4,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,4,Yes,4,3,1,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,1,Laboratory Technician,4,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,1,Yes,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,1,3,2,Sales Executive,4,No,3,2,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,4,2,1,Laboratory Technician,4,Yes,3,4,2,55 and over,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Manufacturing Director,2,No,4,3,4,35 to 44,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Sales,Medical,3,2,1,Sales Representative,3,No,3,4,2,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Other,4,3,1,Research Scientist,4,No,3,1,2,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Healthcare Representative,4,Yes,3,1,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,2,1,Sales Representative,4,Yes,3,1,2,45 to 54,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Manufacturing Director,3,Yes,3,1,4,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,2,1,1,Laboratory Technician,4,Yes,3,3,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,3,No,3,2,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,1,Yes,4,4,1,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,3,No,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,2,No,3,2,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,3,2,2,Sales Executive,3,No,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,2,1,Research Scientist,1,Yes,3,2,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,2,3,Healthcare Representative,2,Yes,3,4,3,55 and over,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,2,1,Sales Representative,3,No,3,2,4,25 to 34,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Healthcare Representative,4,Yes,4,4,1,35 to 44,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,1,3,3,Laboratory Technician,2,No,3,3,2,45 to 54,"5,000 to 7,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,3,No,3,1,2,45 to 54,"Under 3,000",11 to 20 yrs,0 to 1 yrs
+No,0,Non-Travel,Sales,Marketing,4,3,2,Sales Executive,3,No,3,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,2,3,1,Research Scientist,4,No,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,3,Research Director,1,No,3,2,3,35 to 44,"12,000 and over",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,1,Laboratory Technician,2,No,4,3,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,3,2,1,Sales Representative,2,Yes,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,2,3,Sales Executive,2,No,3,2,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Medical,3,2,2,Sales Executive,1,No,3,2,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,1,Yes,3,3,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,3,No,4,3,3,35 to 44,"Under 3,000",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Other,4,2,1,Sales Representative,2,Yes,3,2,4,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,1,3,1,Laboratory Technician,1,No,3,2,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Healthcare Representative,4,Yes,3,3,1,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,1,Research Scientist,2,Yes,3,4,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Manufacturing Director,1,No,3,3,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,3,2,3,Sales Executive,4,Yes,3,1,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,2,Healthcare Representative,4,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,1,2,3,Sales Executive,3,No,3,3,1,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,2,Laboratory Technician,2,No,3,2,2,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Technical Degree,3,3,1,Sales Representative,4,No,3,2,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,3,No,3,2,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Manager,4,No,3,2,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Research Scientist,3,No,4,1,3,55 and over,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,4,Manager,3,No,3,3,4,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Other,3,3,3,Sales Executive,3,No,3,1,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Technical Degree,3,3,2,Sales Executive,4,Yes,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,3,Sales Executive,4,No,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,4,3,Sales Executive,3,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Non-Travel,Sales,Life Sciences,2,4,4,Sales Executive,2,Yes,3,4,2,35 to 44,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,4,2,Manufacturing Director,3,Yes,3,3,4,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Sales,Technical Degree,1,3,2,Sales Executive,4,No,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Non-Travel,Research & Development,Medical,3,2,1,Research Scientist,1,Yes,4,1,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Life Sciences,4,3,4,Manager,3,No,3,4,3,25 to 34,"12,000 and over",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,2,1,Research Scientist,1,Yes,4,3,3,25 to 34,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,4,No,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,4,No,3,4,3,45 to 54,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,4,Research Director,4,No,4,3,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Other,3,4,2,Healthcare Representative,2,Yes,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,3,5,Research Director,3,No,3,2,4,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,1,Laboratory Technician,2,No,3,2,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,2,Laboratory Technician,1,Yes,3,3,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,2,Sales Executive,4,Yes,3,3,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,3,Yes,3,2,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Manufacturing Director,3,Yes,3,4,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,3,1,Research Scientist,3,No,3,2,2,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,3,Manufacturing Director,3,No,3,2,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,2,Manufacturing Director,3,No,3,2,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Other,3,2,1,Laboratory Technician,2,Yes,4,4,1,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,2,Manufacturing Director,1,No,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,2,3,1,Research Scientist,4,No,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,3,Manufacturing Director,3,No,3,3,3,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,3,Healthcare Representative,3,Yes,3,3,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,3,Research Director,1,Yes,3,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,2,1,Research Scientist,1,Yes,3,1,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,2,3,1,Laboratory Technician,2,No,3,1,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,4,2,Manufacturing Director,4,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,1,1,Laboratory Technician,1,No,3,1,2,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,2,Healthcare Representative,3,No,3,4,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,3,Healthcare Representative,3,No,3,2,3,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Manufacturing Director,3,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,4,Manufacturing Director,4,No,3,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Manufacturing Director,4,No,3,2,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,2,3,1,Laboratory Technician,4,No,4,1,2,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,5,Manager,3,No,3,2,4,35 to 44,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,4,No,3,2,3,45 to 54,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,4,Manufacturing Director,4,Yes,3,1,3,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,1,2,Healthcare Representative,2,No,3,1,1,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,3,2,Healthcare Representative,2,Yes,3,4,3,55 and over,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,2,1,5,Research Director,3,No,4,2,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,4,Yes,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Non-Travel,Sales,Medical,2,1,2,Sales Executive,1,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,1,5,Manager,4,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,4,4,4,Sales Executive,4,Yes,3,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Sales,Life Sciences,4,3,2,Sales Executive,3,No,3,1,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,3,4,1,Laboratory Technician,1,No,3,3,3,35 to 44,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,3,Manufacturing Director,1,Yes,3,3,3,35 to 44,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Non-Travel,Sales,Life Sciences,2,2,1,Sales Representative,4,No,3,4,2,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,4,Manager,4,No,3,2,4,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,4,3,1,Laboratory Technician,3,No,3,2,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,4,2,Sales Executive,4,No,3,4,2,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,3,3,Manager,4,Yes,3,3,1,55 and over,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Medical,2,3,1,Human Resources,2,No,3,1,3,45 to 54,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Marketing,3,2,3,Sales Executive,2,No,3,1,3,45 to 54,"5,000 to 7,999",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Other,1,3,2,Laboratory Technician,3,No,3,2,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,3,1,Research Scientist,1,Yes,3,2,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,1,Sales Representative,3,Yes,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,1,Sales Representative,2,No,4,2,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Other,3,3,1,Research Scientist,3,No,3,1,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,5,Research Director,3,Yes,3,4,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,2,Healthcare Representative,2,No,3,1,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,1,No,3,2,2,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,2,1,Research Scientist,3,No,3,3,3,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,5,Research Director,4,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,2,3,Sales Executive,3,No,3,2,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,3,1,Research Scientist,3,No,3,2,3,55 and over,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,3,Manufacturing Director,4,No,3,2,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,3,2,4,Manager,1,No,3,2,4,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,3,2,3,Sales Executive,4,No,3,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,4,3,1,Sales Representative,4,Yes,3,2,3,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Laboratory Technician,1,No,3,1,2,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Research Scientist,1,Yes,4,1,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,3,Yes,3,3,4,45 to 54,"Under 3,000",11 to 20 yrs,10+ yrs
+Yes,1,Non-Travel,Research & Development,Technical Degree,2,2,3,Healthcare Representative,1,No,3,1,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,1,Laboratory Technician,1,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,2,Manufacturing Director,1,No,3,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,2,4,1,Research Scientist,3,No,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,3,Healthcare Representative,3,No,3,1,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,3,Healthcare Representative,4,No,4,4,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,1,1,1,Laboratory Technician,3,No,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,3,Manufacturing Director,2,No,3,2,3,55 and over,"8,000 to 11,999",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,2,Research Scientist,3,No,3,4,4,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Human Resources,Medical,2,2,3,Human Resources,1,No,3,4,3,35 to 44,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,3,Healthcare Representative,4,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Technical Degree,4,3,3,Sales Executive,1,Yes,4,1,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,1,2,2,Research Scientist,3,No,4,2,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,3,No,3,4,2,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,2,Healthcare Representative,4,No,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,2,2,Sales Executive,4,Yes,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Laboratory Technician,4,Yes,3,2,4,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,3,1,Laboratory Technician,3,No,4,3,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,2,1,Research Scientist,2,Yes,4,2,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,4,Manager,1,No,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,1,2,1,Laboratory Technician,2,No,3,1,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Other,4,3,2,Sales Executive,3,Yes,3,4,3,45 to 54,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,4,3,2,Sales Executive,2,No,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,1,Research Scientist,4,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Medical,1,4,4,Manager,4,No,4,3,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Life Sciences,2,2,2,Sales Executive,3,No,3,4,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,3,Healthcare Representative,2,No,3,4,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,3,Sales Executive,3,Yes,3,2,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,No,4,1,3,25 to 34,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,3,Manufacturing Director,2,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,3,4,Manager,3,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,3,Sales Executive,2,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,3,Manufacturing Director,1,No,3,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,3,4,Healthcare Representative,4,No,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,5,Research Director,3,No,3,1,4,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,1,Research Scientist,2,Yes,3,3,4,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,2,Laboratory Technician,2,No,3,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,1,3,2,Manufacturing Director,4,No,4,1,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Life Sciences,3,4,1,Sales Representative,4,No,3,1,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,1,Research Scientist,2,No,3,1,1,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Marketing,4,3,2,Sales Executive,4,No,3,4,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,4,2,4,Sales Executive,2,No,3,2,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Manufacturing Director,3,No,3,4,2,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Research Scientist,2,No,3,4,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,1,2,Laboratory Technician,4,No,3,1,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,2,Manufacturing Director,4,Yes,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,4,1,Human Resources,3,No,3,4,4,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,2,1,Research Scientist,3,Yes,3,4,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Non-Travel,Research & Development,Medical,3,3,1,Laboratory Technician,3,No,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,3,2,Sales Executive,1,Yes,3,1,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,4,Yes,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,3,3,1,Laboratory Technician,3,No,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,2,Healthcare Representative,4,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,1,Research Scientist,3,No,3,3,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,3,No,4,1,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Technical Degree,3,3,1,Human Resources,3,No,3,2,1,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,4,2,3,Sales Executive,1,No,3,1,1,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,3,Research Director,3,No,3,3,2,35 to 44,"12,000 and over",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,3,3,4,Sales Executive,1,Yes,3,2,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,1,No,3,4,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Laboratory Technician,3,No,3,2,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,2,No,4,4,3,18 to 24,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,4,Yes,3,4,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,1,Laboratory Technician,4,No,4,2,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,3,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,2,2,Research Scientist,4,Yes,3,4,1,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,3,Manufacturing Director,2,No,3,2,4,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,2,2,Healthcare Representative,1,No,4,3,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Other,4,2,1,Laboratory Technician,4,No,3,2,4,35 to 44,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,1,2,Sales Executive,3,No,3,2,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Life Sciences,3,3,1,Sales Representative,1,No,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,5,Manager,1,No,3,4,3,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,4,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,1,No,4,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,1,Research Scientist,3,Yes,3,3,2,45 to 54,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Manufacturing Director,4,No,3,2,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,1,Laboratory Technician,3,No,3,1,2,18 to 24,"3,000 to 4,999",0 to 2 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,3,Yes,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,5,Manager,3,No,3,2,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,1,1,Research Scientist,4,Yes,3,1,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,3,2,1,Research Scientist,4,Yes,3,2,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,4,Manager,1,No,4,1,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,1,1,Research Scientist,3,No,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,2,3,1,Human Resources,3,No,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+Yes,1,Non-Travel,Research & Development,Life Sciences,1,2,1,Research Scientist,1,No,3,1,1,35 to 44,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,1,No,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Medical,2,3,2,Sales Executive,2,No,3,4,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,4,Manager,1,No,4,3,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Laboratory Technician,1,No,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,5,Research Director,2,No,3,1,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,1,Yes,3,4,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,2,No,3,1,1,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Medical,2,3,2,Sales Executive,3,No,3,1,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,1,1,Laboratory Technician,3,No,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Laboratory Technician,3,No,3,1,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,2,Research Scientist,4,No,4,2,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,4,1,Sales Representative,4,No,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,2,Manufacturing Director,4,No,3,3,2,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Human Resources,Medical,4,4,2,Human Resources,1,No,3,1,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,4,2,Sales Executive,4,Yes,3,2,3,55 and over,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Other,3,2,1,Laboratory Technician,2,No,4,3,3,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Research Scientist,3,Yes,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,1,3,Manufacturing Director,1,Yes,4,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,1,Research Scientist,4,No,3,2,3,25 to 34,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,2,2,Sales Executive,2,No,3,2,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,4,No,3,2,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,2,Yes,4,1,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,3,3,Research Director,1,Yes,3,3,3,35 to 44,"12,000 and over",11 to 20 yrs,0 to 1 yrs
+No,0,Non-Travel,Sales,Marketing,3,2,3,Sales Executive,4,Yes,3,2,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,1,Yes,3,4,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,3,Manufacturing Director,3,No,3,1,1,45 to 54,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,4,1,Research Scientist,4,No,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,10+ yrs
+Yes,1,Non-Travel,Research & Development,Medical,1,2,1,Research Scientist,2,Yes,4,2,4,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,4,No,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Research Director,4,No,3,1,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Healthcare Representative,1,Yes,3,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,2,Healthcare Representative,1,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,2,2,Sales Executive,4,No,3,4,3,55 and over,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,1,5,Research Director,4,No,3,2,3,35 to 44,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,5,Manager,3,No,3,3,4,45 to 54,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,3,3,1,Research Scientist,2,No,3,3,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,4,1,Laboratory Technician,2,No,3,3,2,45 to 54,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,3,No,3,2,3,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Healthcare Representative,4,Yes,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,5,Research Director,4,No,3,3,4,45 to 54,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,4,Research Director,4,No,3,2,2,25 to 34,"12,000 and over",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,4,1,Research Scientist,3,No,3,4,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,5,Manager,2,No,3,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,4,3,Sales Executive,3,Yes,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,1,Research Scientist,4,Yes,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,3,No,4,4,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,3,1,1,Sales Representative,4,Yes,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,Yes,4,2,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,1,5,Manager,2,Yes,3,1,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,4,2,4,Healthcare Representative,2,Yes,3,4,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,2,1,Laboratory Technician,3,No,4,3,1,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,5,Manager,2,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,1,Yes,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,4,3,5,Manager,2,Yes,4,1,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,3,Manufacturing Director,4,No,3,4,2,55 and over,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,3,2,Laboratory Technician,2,No,3,3,4,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,1,Laboratory Technician,3,Yes,3,3,2,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,5,Manager,1,No,3,4,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Human Resources,Life Sciences,3,2,2,Human Resources,2,No,3,4,4,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,3,Yes,3,4,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,2,Research Scientist,2,Yes,3,4,3,35 to 44,"Under 3,000",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,3,Sales Executive,4,No,3,4,4,35 to 44,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Manufacturing Director,2,Yes,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,3,3,Healthcare Representative,4,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,2,1,Laboratory Technician,4,Yes,3,2,3,25 to 34,"3,000 to 4,999",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,2,1,Laboratory Technician,3,No,3,2,2,45 to 54,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,2,Manufacturing Director,3,Yes,3,3,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,2,3,1,Laboratory Technician,3,Yes,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Research Scientist,1,No,3,2,2,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Research Scientist,2,No,3,4,2,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,3,4,2,Sales Executive,4,No,3,3,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,5,Manager,2,No,4,3,3,45 to 54,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,4,Manager,2,Yes,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,3,No,3,4,3,55 and over,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Laboratory Technician,3,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,1,No,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,2,2,Laboratory Technician,4,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,3,Healthcare Representative,3,No,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,4,3,1,Human Resources,1,No,3,3,4,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,1,2,Laboratory Technician,4,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Research Director,1,Yes,3,2,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,4,2,3,Sales Executive,2,Yes,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,2,3,3,Sales Executive,2,Yes,3,3,2,45 to 54,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,3,Manager,1,Yes,4,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Manufacturing Director,3,No,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Life Sciences,4,3,3,Sales Executive,3,Yes,3,1,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Sales,Medical,3,1,2,Sales Executive,2,No,3,1,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,4,3,1,Sales Representative,2,Yes,3,1,4,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,1,No,3,3,4,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,4,Manager,3,Yes,3,4,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,1,5,Manager,3,No,3,4,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,4,3,5,Manager,2,No,3,1,3,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,1,Research Scientist,3,No,3,2,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,3,Healthcare Representative,4,No,3,4,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Research Scientist,4,No,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Marketing,3,3,2,Sales Executive,1,No,3,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,2,Research Scientist,3,Yes,3,2,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,3,3,4,Manager,2,Yes,3,2,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,1,No,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,1,No,3,4,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,4,No,3,3,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,2,3,Manufacturing Director,1,Yes,3,4,2,55 and over,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,2,No,4,3,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Sales,Marketing,1,4,2,Sales Executive,1,No,3,4,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,3,Manufacturing Director,4,No,3,3,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,3,4,1,Sales Representative,4,No,3,2,3,25 to 34,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,4,Manufacturing Director,2,No,3,2,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,1,Laboratory Technician,4,No,3,3,4,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,2,Laboratory Technician,4,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,4,1,2,Sales Executive,4,No,4,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,4,4,Sales Executive,3,Yes,3,3,2,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Manufacturing Director,2,Yes,3,1,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Technical Degree,1,2,1,Research Scientist,3,No,4,3,3,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,2,Healthcare Representative,3,No,4,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Laboratory Technician,3,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,3,2,1,Sales Representative,4,No,3,3,4,25 to 34,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,4,3,2,Sales Executive,3,Yes,3,3,2,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,4,1,Research Scientist,3,No,3,4,3,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,3,2,Healthcare Representative,4,No,3,4,4,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,2,2,Sales Executive,1,No,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,3,2,Manufacturing Director,3,Yes,3,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,2,2,Sales Executive,4,Yes,3,4,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Marketing,2,3,3,Sales Executive,2,No,3,2,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Research Scientist,4,Yes,3,1,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,3,Yes,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,2,3,2,Sales Executive,4,No,3,1,4,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,2,Yes,3,1,2,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,3,Healthcare Representative,3,No,4,2,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,4,2,Sales Executive,3,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,4,4,Manufacturing Director,3,Yes,3,2,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,2,Research Scientist,3,Yes,3,1,1,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,4,Yes,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,3,Yes,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,1,Research Scientist,4,No,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,3,4,Manager,1,No,3,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,1,Laboratory Technician,1,No,3,3,1,45 to 54,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,1,Laboratory Technician,3,No,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,3,Manufacturing Director,4,No,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,1,Laboratory Technician,4,No,3,2,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,4,1,Laboratory Technician,1,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Other,2,2,3,Human Resources,1,No,3,1,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,2,2,Laboratory Technician,1,No,4,1,3,45 to 54,"3,000 to 4,999",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Research & Development,Other,3,3,3,Healthcare Representative,4,Yes,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,4,Research Director,4,No,3,4,2,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,5,Research Director,1,Yes,4,3,3,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,4,Research Director,4,No,3,4,4,55 and over,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,3,2,Sales Executive,2,Yes,3,4,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,2,1,1,Sales Representative,3,No,3,2,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,1,No,3,2,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,4,Research Director,2,No,3,3,4,25 to 34,"12,000 and over",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Other,4,3,1,Research Scientist,1,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,2,1,Research Scientist,2,No,3,3,4,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,1,No,3,2,4,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,2,Laboratory Technician,4,No,3,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,1,No,3,1,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,1,Research Scientist,4,No,3,3,2,45 to 54,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,1,2,1,Sales Representative,1,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,3,4,1,Laboratory Technician,3,No,3,1,1,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,1,No,4,4,4,55 and over,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,4,Research Director,3,No,3,2,4,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,2,Sales Executive,3,Yes,3,3,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,4,No,3,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,1,Laboratory Technician,2,No,3,1,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,1,Research Scientist,3,Yes,3,1,2,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Other,3,3,2,Laboratory Technician,3,No,3,3,4,35 to 44,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,3,Sales Executive,4,No,3,1,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,3,3,Sales Executive,4,No,3,1,4,45 to 54,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+Yes,1,Non-Travel,Research & Development,Life Sciences,1,2,1,Laboratory Technician,1,Yes,4,2,4,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,3,4,3,Manufacturing Director,2,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,1,3,Healthcare Representative,1,Yes,3,2,3,45 to 54,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Medical,4,4,1,Human Resources,2,No,3,4,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,2,3,1,Laboratory Technician,4,Yes,3,3,1,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,2,3,3,Manufacturing Director,4,Yes,3,4,4,45 to 54,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,1,No,3,1,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Human Resources,Technical Degree,1,3,1,Human Resources,3,No,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Medical,4,2,3,Research Director,2,No,3,3,3,35 to 44,"12,000 and over",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,2,Sales Executive,1,No,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,1,Laboratory Technician,3,No,3,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,4,4,Research Director,2,No,3,2,2,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,2,Healthcare Representative,3,No,3,2,2,45 to 54,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,3,No,3,3,4,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,2,No,3,3,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Medical,4,3,2,Sales Executive,1,No,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Other,4,1,2,Sales Executive,1,No,3,4,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,2,Sales Executive,3,No,3,3,2,25 to 34,"5,000 to 7,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,3,1,Laboratory Technician,4,No,3,3,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Marketing,1,3,2,Sales Executive,3,No,3,3,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,3,3,1,Research Scientist,3,No,3,2,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,2,Research Scientist,3,No,4,1,2,55 and over,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,3,Healthcare Representative,2,No,3,2,3,45 to 54,"8,000 to 11,999",21+ yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,4,Research Director,1,No,3,4,2,25 to 34,"12,000 and over",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Sales,Technical Degree,1,3,1,Sales Representative,3,No,3,4,4,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Sales,Technical Degree,1,3,2,Sales Executive,2,No,3,1,1,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Medical,1,2,2,Sales Executive,2,Yes,4,3,4,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,1,Sales Representative,3,No,3,1,3,35 to 44,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,2,3,1,Laboratory Technician,1,Yes,3,3,2,18 to 24,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Non-Travel,Sales,Life Sciences,4,3,1,Sales Representative,2,No,3,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,3,Manufacturing Director,3,Yes,3,2,2,35 to 44,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,2,2,Sales Executive,3,No,3,3,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,3,3,1,Human Resources,3,No,4,1,4,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Healthcare Representative,3,Yes,3,2,3,55 and over,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,1,Laboratory Technician,2,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,3,Yes,3,3,2,45 to 54,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,3,2,1,Laboratory Technician,1,No,3,3,2,25 to 34,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,1,Research Scientist,3,No,3,4,1,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,3,3,2,Sales Executive,1,No,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,2,Laboratory Technician,1,No,4,1,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Laboratory Technician,2,No,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,1,2,Manufacturing Director,2,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Healthcare Representative,3,Yes,3,1,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,3,Manager,4,No,4,2,4,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,4,Manager,4,No,4,1,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,1,2,1,Research Scientist,1,No,3,3,1,25 to 34,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,4,Research Director,1,No,3,3,4,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,3,Manufacturing Director,2,No,3,4,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,4,Manager,2,No,3,4,4,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,3,Healthcare Representative,2,No,3,4,1,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Laboratory Technician,3,No,3,2,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,1,No,3,2,1,35 to 44,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,4,2,3,Sales Executive,3,Yes,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Research Scientist,3,No,3,1,1,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,1,4,Research Director,4,Yes,3,4,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,3,1,Sales Representative,3,Yes,4,2,3,25 to 34,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,1,Laboratory Technician,2,No,3,2,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,2,Research Scientist,4,No,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,3,1,2,Healthcare Representative,1,No,3,3,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Manufacturing Director,2,No,3,4,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Research Scientist,4,No,4,4,3,45 to 54,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,3,Healthcare Representative,4,Yes,3,3,1,35 to 44,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,1,3,2,Sales Executive,1,No,3,4,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Laboratory Technician,3,Yes,3,2,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Medical,3,3,4,Manager,4,Yes,4,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,3,2,1,Laboratory Technician,1,No,3,2,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,2,Healthcare Representative,4,Yes,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,3,Healthcare Representative,2,No,3,1,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,2,1,Sales Representative,3,No,4,1,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Research Scientist,2,No,3,1,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,1,Sales Representative,4,Yes,4,4,2,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,3,No,3,3,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,1,Research Scientist,3,No,3,1,2,25 to 34,"Under 3,000",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,2,Sales Executive,1,No,3,4,1,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,2,2,2,Sales Executive,1,No,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Human Resources,Human Resources,3,3,2,Human Resources,3,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Laboratory Technician,1,No,3,2,3,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,3,3,3,Sales Executive,2,No,3,2,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,1,Yes,3,4,3,35 to 44,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,3,2,3,Manufacturing Director,4,No,3,2,3,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,3,2,Manufacturing Director,2,No,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,4,3,2,Research Scientist,1,No,3,2,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,3,3,1,Research Scientist,1,No,3,4,2,45 to 54,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,1,Research Scientist,4,No,3,3,1,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,5,Manager,4,No,4,3,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Research Scientist,4,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Research Scientist,4,No,4,1,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,2,No,3,4,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,2,No,3,2,4,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,3,2,Sales Executive,3,No,3,1,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,1,Yes,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,2,Healthcare Representative,3,Yes,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,4,4,3,Sales Executive,3,No,3,1,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,2,Healthcare Representative,4,No,3,4,4,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,5,Manager,3,Yes,3,3,3,45 to 54,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,4,1,Research Scientist,3,No,3,4,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,4,2,Laboratory Technician,1,Yes,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,2,5,Manager,4,No,4,4,3,35 to 44,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,2,Laboratory Technician,3,No,3,4,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,4,2,2,Healthcare Representative,3,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,2,Sales Executive,1,No,3,3,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,4,1,Laboratory Technician,2,No,3,3,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Laboratory Technician,4,No,3,4,2,35 to 44,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,4,4,Manager,1,No,3,2,1,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,2,Yes,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Other,2,2,1,Research Scientist,3,Yes,3,2,2,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,4,Healthcare Representative,3,Yes,3,3,3,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,2,4,1,Research Scientist,4,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,5,Research Director,4,Yes,3,4,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,1,Research Scientist,2,No,3,2,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,1,2,Laboratory Technician,1,Yes,3,1,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Sales,Marketing,1,2,2,Sales Executive,1,No,3,1,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Other,4,3,2,Sales Executive,1,No,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Manufacturing Director,3,Yes,3,2,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,4,2,Manufacturing Director,4,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,1,No,3,4,2,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Manufacturing Director,1,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,2,1,Laboratory Technician,1,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,2,Research Scientist,1,No,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,1,2,Manufacturing Director,1,No,4,2,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,4,No,3,3,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Sales,Medical,2,3,1,Sales Representative,4,Yes,3,3,4,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,4,3,5,Manager,3,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,2,Laboratory Technician,3,No,3,4,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,3,Manufacturing Director,3,No,3,4,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,2,Healthcare Representative,3,No,3,4,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Manufacturing Director,3,No,3,1,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,3,2,Manufacturing Director,3,No,3,4,1,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,2,2,Manufacturing Director,4,No,3,1,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,3,Manufacturing Director,3,Yes,3,4,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Medical,4,2,3,Sales Executive,1,No,3,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Research Scientist,2,No,3,1,1,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,3,Manufacturing Director,4,Yes,3,4,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Human Resources,Human Resources,1,3,2,Human Resources,4,Yes,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,2,4,Manager,4,No,4,2,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Medical,1,1,2,Sales Executive,4,Yes,3,4,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,1,3,1,Research Scientist,4,Yes,3,3,3,18 to 24,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,1,Research Scientist,3,No,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,1,Research Scientist,4,No,3,3,2,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,1,Yes,3,2,1,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,3,2,2,Sales Executive,3,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,3,Healthcare Representative,1,No,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,4,2,Manufacturing Director,3,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Manufacturing Director,2,No,4,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,1,3,4,Research Director,2,No,3,2,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,3,Research Director,1,No,3,3,3,45 to 54,"12,000 and over",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,1,Sales Representative,3,No,3,1,3,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Research Scientist,2,No,3,3,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,2,No,3,3,3,35 to 44,"Under 3,000",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,4,Healthcare Representative,3,Yes,3,2,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,4,2,2,Manufacturing Director,3,No,3,3,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,2,Healthcare Representative,1,No,4,1,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,4,Manager,3,No,4,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,4,Research Director,3,No,4,1,3,35 to 44,"12,000 and over",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Sales,Other,4,3,2,Sales Executive,4,Yes,4,1,4,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Research Scientist,4,No,3,4,4,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,1,2,2,Sales Executive,2,Yes,3,2,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,2,Sales Executive,4,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Research Scientist,2,No,3,3,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,2,Sales Executive,4,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,1,Yes,3,2,2,45 to 54,"Under 3,000",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,2,1,Laboratory Technician,2,No,4,2,3,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,2,4,4,Manager,2,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,4,Manager,3,No,3,1,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,3,Sales Executive,3,Yes,3,4,3,35 to 44,"5,000 to 7,999",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,1,Sales Representative,1,No,3,1,3,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Life Sciences,3,3,2,Sales Executive,4,Yes,4,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Healthcare Representative,3,No,3,2,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,3,3,1,Human Resources,4,Yes,3,1,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,2,1,Laboratory Technician,3,Yes,3,1,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,3,No,3,4,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,3,Healthcare Representative,4,No,3,3,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Sales,Medical,4,3,1,Sales Representative,3,Yes,3,3,3,45 to 54,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,2,No,3,1,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Medical,4,3,1,Laboratory Technician,4,No,4,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,2,1,Research Scientist,2,No,3,4,3,55 and over,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,2,2,Laboratory Technician,4,No,3,3,4,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,1,3,Healthcare Representative,4,No,4,3,4,55 and over,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,1,Laboratory Technician,2,No,3,4,3,25 to 34,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Medical,3,1,2,Sales Executive,4,No,3,3,2,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,1,Research Scientist,4,No,3,2,3,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,3,3,1,Sales Representative,4,Yes,4,2,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,3,Healthcare Representative,4,Yes,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,1,2,1,Research Scientist,4,Yes,3,3,4,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,2,Sales Executive,4,Yes,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,4,1,Research Scientist,3,No,3,4,3,18 to 24,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,3,Sales Executive,3,No,3,2,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,3,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Representative,4,No,3,3,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,2,3,Healthcare Representative,3,No,4,4,2,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Human Resources,Human Resources,4,1,1,Human Resources,3,No,3,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,3,1,4,Sales Executive,3,No,3,3,1,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,1,1,Laboratory Technician,3,No,3,3,4,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,4,Research Director,2,No,3,3,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,1,Research Scientist,3,No,3,1,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,3,No,3,4,4,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Human Resources,Human Resources,3,1,2,Human Resources,2,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Manufacturing Director,1,Yes,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,1,No,3,2,4,18 to 24,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Healthcare Representative,2,No,3,4,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Manufacturing Director,3,No,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,4,No,3,2,2,25 to 34,"Under 3,000",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Sales,Marketing,3,3,2,Sales Executive,2,No,3,4,1,45 to 54,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,3,Sales Executive,4,Yes,3,2,2,45 to 54,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Marketing,2,2,2,Sales Executive,1,Yes,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,1,1,2,Sales Executive,2,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,2,No,3,3,1,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,4,3,2,Manufacturing Director,4,No,4,4,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,2,Laboratory Technician,4,Yes,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,1,3,Sales Executive,3,No,3,3,1,25 to 34,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,2,3,5,Manager,2,No,3,2,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,3,1,3,Human Resources,3,No,4,3,4,45 to 54,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,4,2,1,Research Scientist,1,No,3,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Human Resources,Medical,1,3,1,Human Resources,4,No,3,4,3,18 to 24,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+Yes,1,Travel_Frequently,Human Resources,Human Resources,3,2,1,Human Resources,4,No,3,3,2,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,1,3,2,Sales Executive,3,No,3,3,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,4,No,3,3,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,2,1,1,Sales Representative,2,No,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,4,2,Healthcare Representative,3,Yes,3,4,4,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,3,Sales Executive,1,No,3,1,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,4,1,Research Scientist,4,Yes,3,1,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Marketing,4,3,2,Sales Executive,2,No,3,4,2,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,4,No,3,3,4,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,1,3,3,Sales Executive,1,Yes,4,3,2,25 to 34,"8,000 to 11,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,2,1,Laboratory Technician,2,No,3,2,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,1,3,3,Sales Executive,3,No,3,1,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,2,1,Research Scientist,1,No,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,2,Healthcare Representative,3,No,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,2,3,1,Research Scientist,2,No,3,2,3,25 to 34,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,1,2,Healthcare Representative,4,Yes,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Technical Degree,3,2,1,Research Scientist,3,Yes,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Laboratory Technician,2,No,4,2,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,2,5,Research Director,1,No,3,2,3,55 and over,"12,000 and over",21+ yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,4,3,2,Research Scientist,2,No,3,4,2,25 to 34,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,1,No,4,2,3,35 to 44,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Life Sciences,4,3,2,Sales Executive,3,Yes,3,3,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,1,2,4,Manufacturing Director,3,Yes,4,4,2,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,2,3,1,Human Resources,4,No,3,2,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,1,2,Sales Executive,4,No,3,1,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,2,3,1,Sales Representative,2,No,3,2,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,2,1,Laboratory Technician,3,No,3,2,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,1,Yes,3,3,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,2,2,Sales Executive,4,No,3,1,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,1,3,3,Manager,3,No,3,4,3,45 to 54,"12,000 and over",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,2,2,Sales Executive,2,No,3,1,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,5,Research Director,4,Yes,3,3,3,45 to 54,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,3,Healthcare Representative,1,Yes,3,4,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Medical,3,3,1,Research Scientist,2,Yes,3,3,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Other,3,3,2,Human Resources,2,No,3,3,2,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,4,Yes,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,4,1,Research Scientist,1,No,3,2,3,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Research Scientist,4,No,3,3,4,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,3,Research Director,3,No,4,3,3,35 to 44,"12,000 and over",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Life Sciences,2,2,2,Sales Executive,2,No,3,3,3,45 to 54,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,1,Laboratory Technician,1,No,3,4,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,2,Healthcare Representative,1,No,3,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Medical,2,3,2,Manufacturing Director,4,No,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Human Resources,Human Resources,1,3,1,Human Resources,2,No,3,4,3,35 to 44,"Under 3,000",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Laboratory Technician,1,No,3,3,2,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,3,2,Manufacturing Director,1,No,3,2,1,35 to 44,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Life Sciences,3,3,2,Sales Executive,4,No,3,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,1,3,1,Research Scientist,3,No,3,3,2,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,2,Healthcare Representative,2,No,3,1,1,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,3,Sales Executive,3,Yes,3,4,4,35 to 44,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,3,Manufacturing Director,3,No,3,2,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Human Resources,Medical,4,3,1,Human Resources,2,Yes,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,4,3,2,Healthcare Representative,2,No,4,4,4,45 to 54,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,3,2,Healthcare Representative,4,No,3,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,4,2,Sales Executive,3,No,4,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Non-Travel,Sales,Medical,2,3,4,Manager,2,No,4,4,2,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,1,1,Laboratory Technician,3,No,3,2,4,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,3,Manufacturing Director,2,Yes,3,3,3,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Healthcare Representative,1,No,3,2,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Research Scientist,4,No,3,2,2,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Marketing,1,3,3,Sales Executive,1,No,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,1,No,4,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,1,2,Sales Representative,4,Yes,4,1,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,4,No,3,1,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,3,4,Research Director,3,Yes,3,2,3,55 and over,"12,000 and over",21+ yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Medical,2,3,1,Research Scientist,3,No,3,3,1,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Human Resources,Human Resources,4,4,1,Human Resources,1,No,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Human Resources,Human Resources,1,2,1,Human Resources,1,Yes,3,4,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Sales,Life Sciences,3,3,2,Sales Executive,3,No,4,2,4,45 to 54,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,2,Research Scientist,2,Yes,4,4,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Frequently,Sales,Life Sciences,1,3,2,Sales Executive,4,No,4,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,1,Laboratory Technician,4,Yes,3,3,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,1,Laboratory Technician,4,No,3,2,4,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Marketing,4,3,2,Sales Executive,4,No,3,3,4,25 to 34,"3,000 to 4,999",3 to 5 yrs,0 to 1 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,3,3,1,Research Scientist,3,No,4,2,2,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Laboratory Technician,3,No,3,3,3,45 to 54,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,3,Manufacturing Director,4,No,3,3,2,45 to 54,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Human Resources,Life Sciences,3,3,1,Human Resources,4,No,3,2,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,1,2,Healthcare Representative,3,No,3,4,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,3,No,3,4,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,2,Yes,3,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,1,4,4,Sales Executive,1,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,2,2,2,Sales Representative,3,No,4,4,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Medical,4,2,1,Human Resources,2,No,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,2,5,Manager,3,No,3,4,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,5,Research Director,2,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,4,2,1,Research Scientist,4,Yes,4,2,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,3,3,3,Sales Executive,2,No,4,3,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,2,1,Research Scientist,1,No,3,4,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,2,Research Scientist,4,No,3,2,3,35 to 44,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,2,2,1,Research Scientist,4,No,4,2,4,55 and over,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,2,3,1,Sales Representative,2,No,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Sales,Medical,2,3,1,Sales Representative,4,No,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,2,Yes,4,1,3,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Technical Degree,2,2,2,Sales Executive,3,Yes,3,1,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,2,Laboratory Technician,3,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,3,Sales Executive,4,Yes,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Laboratory Technician,1,No,3,2,3,25 to 34,"Under 3,000",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,2,Research Scientist,1,Yes,4,3,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,2,2,Manufacturing Director,2,Yes,3,4,3,35 to 44,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,2,Manufacturing Director,4,No,3,4,2,45 to 54,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Human Resources,Human Resources,2,2,2,Human Resources,4,No,4,4,2,35 to 44,"3,000 to 4,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,4,Manager,1,No,3,1,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,1,Research Scientist,3,Yes,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,1,4,2,Sales Executive,3,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,3,4,Manager,4,No,3,2,3,45 to 54,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,2,Healthcare Representative,1,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+Yes,1,Non-Travel,Research & Development,Technical Degree,4,1,1,Research Scientist,1,Yes,4,2,3,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,4,No,3,4,3,55 and over,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,2,2,Sales Executive,2,No,3,3,1,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,2,Sales Executive,2,No,4,3,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,3,Research Director,1,No,3,2,4,35 to 44,"12,000 and over",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,2,Sales Executive,4,Yes,3,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Medical,4,2,2,Sales Executive,4,Yes,3,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,4,1,Laboratory Technician,3,No,3,2,2,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Other,3,4,1,Laboratory Technician,4,No,3,1,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Medical,2,3,2,Healthcare Representative,3,No,3,3,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,3,No,3,2,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Sales,Life Sciences,3,2,2,Sales Executive,4,Yes,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Technical Degree,3,4,1,Sales Representative,1,No,3,4,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Non-Travel,Sales,Life Sciences,1,1,2,Sales Executive,3,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,2,3,1,Research Scientist,2,No,3,3,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Other,3,2,2,Research Scientist,4,Yes,3,2,3,25 to 34,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,3,Yes,3,4,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Technical Degree,3,3,2,Research Scientist,2,No,3,3,4,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,1,No,3,3,3,55 and over,"5,000 to 7,999",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,2,Manufacturing Director,1,No,4,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Research & Development,Medical,4,2,2,Research Scientist,2,Yes,3,3,3,35 to 44,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,4,Manager,4,Yes,3,3,2,55 and over,"12,000 and over",21+ yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Research & Development,Life Sciences,1,4,1,Research Scientist,3,Yes,3,1,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,3,1,Research Scientist,4,No,3,4,4,35 to 44,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,2,3,5,Research Director,4,No,3,4,3,45 to 54,"12,000 and over",21+ yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,4,Yes,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Human Resources,Human Resources,1,2,1,Human Resources,2,No,3,1,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,2,3,2,Sales Executive,1,No,3,4,1,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,1,Research Scientist,3,No,3,3,2,25 to 34,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,1,Research Scientist,1,Yes,3,4,4,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,1,4,1,Laboratory Technician,2,No,4,2,3,35 to 44,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,1,3,3,Sales Executive,4,No,4,1,2,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Medical,4,3,3,Sales Executive,3,No,3,3,2,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Laboratory Technician,1,No,3,4,2,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Healthcare Representative,1,No,3,1,2,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,2,Healthcare Representative,4,No,3,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,1,2,Research Scientist,1,No,4,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,3,2,1,Laboratory Technician,4,No,3,1,2,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,2,1,Sales Representative,1,No,3,1,2,35 to 44,"Under 3,000",11 to 20 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,3,2,Sales Executive,4,Yes,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,3,2,Sales Executive,4,No,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,2,2,Manufacturing Director,4,No,4,2,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,0 to 1 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,1,3,2,Sales Executive,4,Yes,3,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Rarely,Sales,Life Sciences,1,3,3,Sales Executive,1,Yes,3,2,2,45 to 54,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Research Scientist,3,No,3,3,2,45 to 54,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Healthcare Representative,3,No,4,3,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,3,Healthcare Representative,3,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Frequently,Human Resources,Other,4,3,1,Human Resources,2,Yes,3,2,3,35 to 44,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,4,5,Manager,2,Yes,3,1,3,55 and over,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,1,1,Laboratory Technician,4,Yes,3,3,3,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,4,Sales Executive,1,No,3,1,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,2,2,Research Scientist,3,No,3,4,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,3,Research Director,3,No,4,3,4,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,2,Manufacturing Director,1,Yes,3,4,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,2,2,Healthcare Representative,3,No,3,2,2,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,1,Laboratory Technician,4,No,3,3,4,18 to 24,"Under 3,000",3 to 5 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Technical Degree,4,3,2,Laboratory Technician,3,No,3,1,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,2,3,2,Sales Executive,2,No,3,3,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Human Resources,Human Resources,3,3,1,Human Resources,2,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,2,No,3,3,2,25 to 34,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Other,4,3,1,Laboratory Technician,3,Yes,3,3,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,1,3,3,Healthcare Representative,3,No,4,2,3,45 to 54,"8,000 to 11,999",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,2,2,1,Laboratory Technician,3,No,3,3,2,25 to 34,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,2,Sales Executive,2,No,3,1,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,1,Sales Representative,3,No,3,3,3,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,1,2,2,Manufacturing Director,3,No,3,4,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,2,Research Scientist,1,Yes,3,3,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,4,No,4,1,3,35 to 44,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Non-Travel,Research & Development,Medical,3,3,3,Research Director,2,No,3,1,1,45 to 54,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,3,1,Laboratory Technician,3,Yes,3,3,3,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,4,3,1,Research Scientist,3,No,3,4,4,18 to 24,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Research Scientist,3,No,3,2,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,2,Healthcare Representative,4,Yes,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Laboratory Technician,2,No,3,3,3,25 to 34,"Under 3,000",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,1,Laboratory Technician,4,No,3,3,2,35 to 44,"Under 3,000",6 to 10 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,2,2,1,Sales Representative,2,No,3,2,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,2,Research Scientist,4,No,3,1,3,35 to 44,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,1,3,Research Director,3,No,3,1,3,35 to 44,"12,000 and over",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,3,3,3,Sales Executive,4,No,3,3,3,25 to 34,"8,000 to 11,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,4,3,Research Director,4,Yes,4,1,3,35 to 44,"12,000 and over",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Other,1,3,2,Sales Executive,3,Yes,4,2,2,25 to 34,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Life Sciences,1,3,1,Sales Representative,4,No,3,2,2,45 to 54,"3,000 to 4,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,3,1,Research Scientist,4,Yes,3,3,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Medical,3,3,1,Sales Representative,1,Yes,3,4,3,18 to 24,"Under 3,000",0 to 2 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,4,3,5,Manager,4,No,3,3,2,35 to 44,"12,000 and over",21+ yrs,5 to 9 yrs
+Yes,1,Travel_Frequently,Sales,Marketing,4,3,1,Sales Representative,1,No,3,1,2,18 to 24,"Under 3,000",0 to 2 yrs,0 to 1 yrs
+No,0,Travel_Rarely,Sales,Medical,1,2,3,Sales Executive,4,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,4,3,2,Manufacturing Director,2,No,3,2,3,35 to 44,"5,000 to 7,999",11 to 20 yrs,2 to 4 yrs
+No,0,Non-Travel,Research & Development,Life Sciences,3,3,2,Healthcare Representative,3,No,4,1,2,55 and over,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Medical,1,3,1,Research Scientist,4,Yes,3,2,4,25 to 34,"3,000 to 4,999",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,3,5,Manager,3,No,3,1,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+Yes,1,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Laboratory Technician,3,No,3,4,1,55 and over,"Under 3,000",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,1,2,4,Manufacturing Director,2,No,4,3,3,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Marketing,4,2,2,Sales Executive,3,No,4,4,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Non-Travel,Sales,Marketing,4,1,2,Sales Executive,4,No,4,1,2,35 to 44,"5,000 to 7,999",11 to 20 yrs,10+ yrs
+No,0,Travel_Rarely,Sales,Life Sciences,3,2,2,Sales Executive,2,No,3,3,3,35 to 44,"8,000 to 11,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Technical Degree,4,3,1,Research Scientist,1,No,3,4,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Human Resources,Life Sciences,3,3,3,Human Resources,4,Yes,3,3,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,1,3,2,Sales Executive,4,No,3,3,3,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+Yes,1,Travel_Frequently,Sales,Life Sciences,2,3,2,Sales Executive,3,No,3,4,3,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,2,2,Sales Executive,4,No,3,1,2,35 to 44,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Life Sciences,4,3,2,Sales Executive,3,No,3,3,3,45 to 54,"3,000 to 4,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,2,1,Research Scientist,3,No,3,4,3,35 to 44,"Under 3,000",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Life Sciences,3,3,2,Healthcare Representative,3,Yes,3,4,4,35 to 44,"5,000 to 7,999",6 to 10 yrs,10+ yrs
+No,0,Travel_Rarely,Research & Development,Medical,3,3,1,Research Scientist,3,No,3,2,3,35 to 44,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,3,1,1,Research Scientist,4,No,3,4,3,35 to 44,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Other,4,2,2,Laboratory Technician,2,Yes,3,1,3,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,1,Research Scientist,1,No,3,2,1,25 to 34,"3,000 to 4,999",3 to 5 yrs,5 to 9 yrs
+Yes,1,Travel_Rarely,Sales,Marketing,4,2,3,Sales Executive,1,Yes,3,2,3,45 to 54,"8,000 to 11,999",11 to 20 yrs,2 to 4 yrs
+No,0,Travel_Rarely,Sales,Marketing,2,2,4,Sales Executive,4,No,3,1,2,35 to 44,"12,000 and over",21+ yrs,10+ yrs
+No,0,Non-Travel,Research & Development,Medical,2,3,2,Manufacturing Director,1,No,3,2,3,25 to 34,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Sales,Other,4,2,1,Sales Representative,3,No,3,4,3,25 to 34,"Under 3,000",3 to 5 yrs,2 to 4 yrs
+No,0,Travel_Frequently,Research & Development,Medical,3,4,2,Laboratory Technician,4,No,3,3,3,35 to 44,"Under 3,000",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,4,2,3,Healthcare Representative,1,No,3,1,3,35 to 44,"8,000 to 11,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Life Sciences,2,4,2,Manufacturing Director,2,Yes,4,2,3,25 to 34,"5,000 to 7,999",6 to 10 yrs,5 to 9 yrs
+No,0,Travel_Frequently,Sales,Medical,4,2,2,Sales Executive,2,No,3,4,2,45 to 54,"5,000 to 7,999",11 to 20 yrs,5 to 9 yrs
+No,0,Travel_Rarely,Research & Development,Medical,2,4,2,Laboratory Technician,3,No,3,1,4,25 to 34,"3,000 to 4,999",6 to 10 yrs,2 to 4 yrs
