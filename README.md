@@ -44,7 +44,47 @@ The analysis suggests that overtime, early-career/low-experience groups, and a s
 
 ## Exploratory analysis methodology
 
-The notebook computes employee counts, leaver counts, and attrition rates as `leavers / employees` for each group. It uses grouped comparisons and four reproducible Matplotlib/Seaborn charts. No predictive model, causal inference, or individual-level recommendation is performed.
+The notebook computes employee counts, leaver counts, and attrition rates as `leavers / employees` for each group. It uses grouped comparisons and six reproducible visualizations. No predictive model, causal inference, or individual-level recommendation is performed.
+
+## Data Visualizations
+
+The charts below summarize the main attrition patterns in the de-identified dataset. They show associations in a one-time snapshot and should not be interpreted as evidence that any individual factor causes attrition.
+
+### 1. Overall employee attrition overview
+
+This chart shows the overall split between employees who left and employees who stayed. In the dataset, 237 of 1,470 employees left, corresponding to a 16.1% attrition rate.
+
+![Overall employee attrition overview](Images/attrition_overview.png)
+
+### 2. Attrition by department
+
+Sales has the highest department attrition rate at 20.6%, followed by Human Resources at 19.0% and Research & Development at 13.8%. The chart also shows the headcount and leaver counts behind each rate.
+
+![Attrition by department](Images/attrition_by_department.png)
+
+### 3. Attrition by job role
+
+Attrition varies considerably across job roles: Sales Representatives have the highest observed rate at 39.8%, while Research Directors have the lowest at 2.5%. Confidence intervals and group sizes are shown to provide context for these comparisons.
+
+![Attrition by job role](Images/attrition_by_job_role.png)
+
+### 4. Attrition by overtime
+
+Employees recorded as working overtime had a 30.5% attrition rate compared with 10.4% among employees without overtime. The department-level comparisons show the same direction in each department, but this remains an association rather than proof of causation.
+
+![Attrition by overtime](Images/attrition_by_overtime.png)
+
+### 5. Attrition by satisfaction and work-life balance
+
+The chart compares attrition rates across job-satisfaction and work-life-balance scores. The lowest reported score groups have the highest observed rates in these comparisons, although the chart is descriptive and survey responses may overlap with other employee characteristics.
+
+![Attrition by satisfaction and work-life balance](Images/attrition_by_satisfaction.png)
+
+### 6. Attrition by age, income, and experience
+
+Attrition is highest in the youngest age band, the lowest income band, the 0–2 years of total experience group, and the 0–1 years-at-company group. These variables overlap substantially, so the panels should not be read as independent effects; the 21 records with unknown age are excluded from the age-band comparison.
+
+![Attrition by age, income, and experience](Images/attrition_by_age_income_experience.png)
 
 ## Repository structure
 
@@ -56,11 +96,13 @@ employee-attrition-analysis/
 ├── data/
 │   ├── employee_attrition_deidentified.csv
 │   └── DATA_SAFETY.md
-├── images/
+├── Images/
 │   ├── attrition_overview.png
 │   ├── attrition_by_department.png
+│   ├── attrition_by_job_role.png
 │   ├── attrition_by_overtime.png
-│   └── attrition_by_job_role.png
+│   ├── attrition_by_satisfaction.png
+│   └── attrition_by_age_income_experience.png
 ├── requirements.txt
 └── .gitignore
 ```
